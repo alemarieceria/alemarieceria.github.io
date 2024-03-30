@@ -37,6 +37,6 @@ website:
         href: contact.qmd
       - text: "License"
         aria-label: "License Details"
-        href: license.md
+        href: license.qmd
       # - icon: rss
       #   href: blog/index.xml
