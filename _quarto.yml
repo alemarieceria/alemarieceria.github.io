@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    port: 5240
+    browser: true
+  
+metadata-files:
+  - _website.yml
+  - _format.yml
+  - _execute.yml
+
+
+

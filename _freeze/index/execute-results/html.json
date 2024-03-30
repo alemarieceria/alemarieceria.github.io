@@ -1,0 +1,15 @@
+{
+  "hash": "69a203656b44220df17adbf29d9cdc19",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Alemarie Ceria\"\npagetitle: \"Alemarie Ceria\"\nsubtitle: \"Data Coordinator with the Oleson Ecological Economics Research Group\"\n\nabout:\n  template: solana\n  image-width: 28em\n  id: hero-heading\n  links:\n    - icon: github\n      aria-label: GitHub\n      href: https://github.com/alemarieceria\n    - text: \"{{< ai orcid >}}\"\n      href: https://orcid.org/0000-0002-3039-7323\n    - icon: linkedin\n      aria-label: \"LinkedIn\"\n      href: linkedin.com/in/alemarieceria\npage-layout: full\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

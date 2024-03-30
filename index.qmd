@@ -1,0 +1,27 @@
+---
+title: "{{< animate tada 'Alemarie Ceria' >}}"
+subtitle: "Data Coordinator <br> Oleson Ecological Economics Research Group"
+image: assets/img/2023_alemarie-ceria_headshot.jpg
+
+about:
+  template: trestles
+  image-width: 15em
+  links:
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/alemarieceria
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-3039-7323
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://www.linkedin.com/in/alemarieceria
+page-layout: full
+
+# header-includes: >
+#   <link rel="stylesheet" href="assets/styles/index.css">
+# resources:
+#   - assets/styles/index.css
+---
+
+<br><br><br><br><br><br><br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
