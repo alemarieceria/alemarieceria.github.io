@@ -8,33 +8,33 @@ website:
     search: true
     tools:
       - icon: github
-        href: https://www.https://github.com/alemarieceria
+        href: https://github.com/alemarieceria/alemarieceria.github.io
     right:
       - text: About
         aria-label: "About Me"
         href: index.qmd
-      - text: Blog
-        aria-label: "Learning Through Experimentation Blog"
-        href: files/blog/index.qmd
-      - text: Projects
-        aria-label: "Project Portfolio"
-        href: files/projects/index.qmd
       - text: Resume
         aria-label: "Resume"
         href: files/resume.qmd
-        
+      - text: Projects
+        aria-label: "Project Portfolio"
+        href: files/projects/index.qmd
+      - text: Blog
+        aria-label: "Learning Through Experimentation Blog"
+        href: files/blog/index.qmd
+      
   page-footer:  
     left: >-
      &#169; 2024 Alemarie Ceria &#8729; Made with [Quarto](https://quarto.org)
     center: |
-      <a class="link-dark me-1" href="https://www.github.com/alemarieceria" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://github.com/alemarieceria" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
       <a class="link-dark me-1" href="https://orcid.org/0000-0002-3039-7323" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
       <a class="link-dark me-1" href="https://linkedin.com/in/alemarieceria" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
 
     right: 
       - text: "Contact"
         aria-label: "Contact Form"
-        href: "contact.qmd"
+        href: contact.qmd
       - text: "License"
         aria-label: "License Details"
         href: license.qmd

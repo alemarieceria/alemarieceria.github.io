@@ -1,11 +1,12 @@
-# Resources
 
 
-## Documentation
+## Resources
+
+### Documentation
 
 1.  [Quarto](https://quarto.org/)
 
-## Quarto Website Inspo
+### Quarto Website Inspo
 
 1.  [Quantum Jitter by Carl Goodwin](https://www.quantumjitter.com/) -
     [**Source**](https://github.com/cgoo4/quantumjitter)
@@ -16,7 +17,7 @@
 4.  [Hertie Coding Club](https://www.hertiecodingclub.com/) -
     [**Source**](https://github.com/jurjoroa/hcc-website)
 
-## Free Fonts
+### Free Fonts
 
 1.  [Richprjcts by Riccardo Agostinelli](https://richprjcts.com/)
     - [Cyrene](https://richprjcts.com/cyrene-free-font)
@@ -24,17 +25,17 @@
     - [BL Melody](https://www.boulevardtype.com/bl-melody)
     - [Sometimes Neue and Office Times](https://www.boulevardtype.com/)
 
-## Color Palettes
+### Color Palettes
 
 1.  [`colorspace` R
     Package](https://colorspace.r-forge.r-project.org/articles/colorspace.html#installation)
 
-## Extensions
+### Extensions
 
 1.  [`quarto-animate`](https://github.com/mcanouil/quarto-animate)
 2.  [`fontawesome`](https://github.com/quarto-ext/fontawesome)
 
-## Citations
+### Citations
 
 Kaye, Ella. 2022. “Welcome to My Quarto Website!” December 11, 2022.
 https://ellakaye.co.uk/posts/2022-12-11_welcome-quarto.

@@ -14,7 +14,7 @@ about:
       href: https://orcid.org/0000-0002-3039-7323
     - icon: linkedin
       aria-label: "LinkedIn"
-      href: https://www.linkedin.com/in/alemarieceria
+      href: https://linkedin.com/in/alemarieceria
 page-layout: full
 
 # header-includes: >
