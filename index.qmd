@@ -1,5 +1,6 @@
 ---
 title: "{{< animate tada 'Alemarie Ceria' >}}"
+pagetitle: "Alemarie Ceria" 
 subtitle: "Data Coordinator <br> Oleson Ecological Economics Research Group"
 image: assets/img/2023_alemarie-ceria_headshot.jpg
 

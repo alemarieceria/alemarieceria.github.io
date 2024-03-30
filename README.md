@@ -29,11 +29,14 @@
 
 1.  [`colorspace` R
     Package](https://colorspace.r-forge.r-project.org/articles/colorspace.html#installation)
+2.  [`wesanderson` R Package](https://github.com/karthik/wesanderson)
+3.  [`paletteer` R Package](https://github.com/EmilHvitfeldt/paletteer)
 
-### Extensions
+### Quarto Extensions
 
 1.  [`quarto-animate`](https://github.com/mcanouil/quarto-animate)
 2.  [`fontawesome`](https://github.com/quarto-ext/fontawesome)
+3.  [`academicons`](https://github.com/schochastics/academicons)
 
 ### Citations
 
