@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   preview: 
-    port: 5240
+    port: 5800
     browser: true
   
 metadata-files:

@@ -6,6 +6,15 @@
 
 1.  [Quarto](https://quarto.org/)
 
+### Tutorials
+
+1.  [The ultimate guide to starting a Quarto blog by Albert
+    Rapp](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide)
+2.  [Hello Quarto: Porting my Website from Hugo Apéro by Silvia
+    Canelón](https://silviacanelon.com/blog/2023-09-29-hello-quarto/)
+3.  [Welcome to my Quarto website! by Ella
+    Kaye](https://ellakaye.co.uk/posts/2022-12-11_welcome-quarto/)
+
 ### Quarto Website Inspo
 
 1.  [Quantum Jitter by Carl Goodwin](https://www.quantumjitter.com/) -
@@ -17,13 +26,19 @@
 4.  [Hertie Coding Club](https://www.hertiecodingclub.com/) -
     [**Source**](https://github.com/jurjoroa/hcc-website)
 
-### Free Fonts
+### Fonts
 
-1.  [Richprjcts by Riccardo Agostinelli](https://richprjcts.com/)
+1.  [Free font from Richprjcts by Riccardo
+    Agostinelli](https://richprjcts.com/)
     - [Cyrene](https://richprjcts.com/cyrene-free-font)
-2.  [BoulevardLAB](https://boulevardlab.com/)
+2.  [Free fonts by BoulevardLAB](https://boulevardlab.com/)
     - [BL Melody](https://www.boulevardtype.com/bl-melody)
     - [Sometimes Neue and Office Times](https://www.boulevardtype.com/)
+3.  [Stack Overflow Question by shafee: How to override the default font
+    using locally stored fonts in
+    themes?](https://stackoverflow.com/questions/75464776/how-to-override-the-default-font-using-locally-stored-fonts-in-themes)
+4.  [A GPDR-compliant way to import Google fonts in Quarto by Albert
+    Rapp](https://www.youtube.com/watch?v=vaPBOqfus7w)
 
 ### Color Palettes
 

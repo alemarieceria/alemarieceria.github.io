@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+
+$col1: #A8BFAA;
+$col2: #D9AD29;
+$col3: #D97D0D;
+$col4: #D96C0D;
+$col5: #0D0D0D;
+
+/*-- scss:rules --*/
+
+element.style,
+.animate__tada,
+span.navbar-title {
+    color: $col1;
+}

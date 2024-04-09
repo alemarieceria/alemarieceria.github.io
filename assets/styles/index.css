@@ -1,5 +1,6 @@
 /* title */
 .title {
+  font-family: "Cyrene";
   font-size: 3rem;
   font-weight: 700;
   line-height: 1.1em !important;
@@ -7,7 +8,7 @@
 
 /* subtitle + Learn More About Me */
 .subtitle {
-  font-family: "Petrona";
+  font-family: "Cyrene";
   font-size: 1rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -103,4 +104,10 @@
       order: 1 !important;
       padding: 0 2em 0 2em !important;
     }
+}
+
+/* cyrene */
+@font-face {
+  font-family: "Cyrene";
+  src: url("C:/Users/4p0nc/OneDrive - hawaii.edu/Desktop/alemarieceria.github.io/assets/fonts/Cyrene.woff");
 }

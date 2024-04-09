@@ -1,7 +1,9 @@
 format:
   html:
-    theme: litera
-    css: styles.css
+    theme: 
+      - litera
+      # - assets/styles/styles.scss
+    # css: assets/styles/index.css
     toc: true
     link-external-newwindow: true
     page-layout: full

@@ -1,5 +1,5 @@
 website:
-  title: "Alemarie Ceria"
+  title: "alemarie"
   site-url: https://www.alemarieceria.github.io
   back-to-top-navigation: true
   page-navigation: true
@@ -19,9 +19,9 @@ website:
       - text: Projects
         aria-label: "Project Portfolio"
         href: files/projects/index.qmd
-      - text: Blog
-        aria-label: "Learning Through Experimentation Blog"
-        href: files/blog/index.qmd
+      # - text: Blog
+      #   aria-label: "Learning Through Experimentation Blog"
+      #   href: files/blog/index.qmd
       
   page-footer:  
     left: >-
