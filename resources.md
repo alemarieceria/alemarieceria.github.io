@@ -1,0 +1,11 @@
+# R Packages
+- [{ggiraph}](https://davidgohel.github.io/ggiraph/)
+- [{epoxy}](https://github.com/gadenbuie/epoxy)
+- [{rio}](https://rbasics.org/packages/rio-package-in-r/)
+- [{janitor}](https://sfirke.github.io/janitor/reference/janitor-package.html)
+- [{patchwork}](https://patchwork.data-imaginist.com/articles/patchwork.html)
+- [{fs}](https://fs.r-lib.org/)
+- [{here}](https://here.r-lib.org/)
+- [{wesanderson}](https://github.com/karthik/wesanderson)
+- [{bslib}](https://rstudio.github.io/bslib/)
+- [{htmltools}](https://rstudio.github.io/htmltools/index.html)
