@@ -53,11 +53,13 @@
 2.  [`fontawesome`](https://github.com/quarto-ext/fontawesome)
 3.  [`academicons`](https://github.com/schochastics/academicons)
 
-### Citations
-
-Kaye, Ella. 2022. “Welcome to My Quarto Website!” December 11, 2022.
-https://ellakaye.co.uk/posts/2022-12-11_welcome-quarto.
-
-Canelón, Silvia. 2023. “Hello Quarto: Porting My Website from Hugo
-Apéro.” September 29, 2023.
-https://silviacanelon.com/blog/2023-09-29-hello-quarto.
+### R Packages
+- [{ggiraph}](https://davidgohel.github.io/ggiraph/)
+- [{epoxy}](https://github.com/gadenbuie/epoxy)
+- [{rio}](https://rbasics.org/packages/rio-package-in-r/)
+- [{janitor}](https://sfirke.github.io/janitor/reference/janitor-package.html)
+- [{patchwork}](https://patchwork.data-imaginist.com/articles/patchwork.html)
+- [{fs}](https://fs.r-lib.org/)
+- [{here}](https://here.r-lib.org/)
+- [{bslib}](https://rstudio.github.io/bslib/)
+- [{htmltools}](https://rstudio.github.io/htmltools/index.html)
