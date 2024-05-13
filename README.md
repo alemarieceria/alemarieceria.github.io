@@ -63,3 +63,5 @@
 - [`{here}`](https://here.r-lib.org/)
 - [`{bslib}`](https://rstudio.github.io/bslib/)
 - [`{htmltools}`](https://rstudio.github.io/htmltools/index.html)
+- [`{toastui}`](https://dreamrs.github.io/toastui/index.html)
+- [`{shinyWidgets} airDatepicker()`](https://rdrr.io/cran/shinyWidgets/man/airDatepicker.html)
